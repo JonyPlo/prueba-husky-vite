@@ -1,4 +1,4 @@
-const { add } = require('../index.js');
+const { add } = require('../app.js');
 
 describe('test index', () => {
   test('add', () => {
